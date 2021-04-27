@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brokers.Portal.API", "Brokers.Portal.API\Brokers.Portal.API.csproj", "{21632C9B-D998-49F5-BC3E-79BD84DD34DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21632C9B-D998-49F5-BC3E-79BD84DD34DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21632C9B-D998-49F5-BC3E-79BD84DD34DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21632C9B-D998-49F5-BC3E-79BD84DD34DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21632C9B-D998-49F5-BC3E-79BD84DD34DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57A2FEB6-CC59-4DC7-965A-DD105FFE814F}
+	EndGlobalSection
+EndGlobal
